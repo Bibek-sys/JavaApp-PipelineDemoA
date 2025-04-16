@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BibekDevOps/MyThirdProject-Basic/_apis/build/status%2FBibek-sys.JavaApp-PipelineDemoA?branchName=main)](https://dev.azure.com/BibekDevOps/MyThirdProject-Basic/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
